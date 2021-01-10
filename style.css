@@ -30,7 +30,16 @@
 
 p{
     text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
 }
+
+img{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 60%;
+}
+
 
 ul {
     list-style-type: none;
